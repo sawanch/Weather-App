@@ -13,11 +13,14 @@ Weather App is a mobile application developed using Flutter that offers real-tim
 
 Insert screenshots of the app by using the relative paths in the repository. Example below:
 
-![Login Screen](screenshot/ss2.jpeg)
-![Registration Screen](screenshot/ss3.jpeg)
-![Home Screen](screenshot/ss4.jpeg)
-![Google Sign In Screen](screenshot/ss5.jpeg)
-![Location Permission](screenshot/ss6.jpeg)
+<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
+    <img src="screenshot/ss2.jpeg" alt="Login Screen" width="300" style="margin: 10px;"/>
+    <img src="screenshot/ss3.jpeg" alt="Registration Screen" width="300" style="margin: 10px;"/>
+    <img src="screenshot/ss4.jpeg" alt="Home Screen" width="300" style="margin: 10px;"/>
+    <img src="screenshot/ss5.jpeg" alt="Google Sign In Screen" width="300" style="margin: 10px;"/>
+    <img src="screenshot/ss6.jpeg" alt="Location Permission" width="300" style="margin: 10px;"/>
+</div>
+
 ![Firebase User Database](screenshot/ss1.png)
 
 
