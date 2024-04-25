@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "171481595963",
+    "project_id": "authtutorial-bea93",
+    "storage_bucket": "authtutorial-bea93.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:171481595963:android:9bdcb94842eeec582e5c1e",
+        "android_client_info": {
+          "package_name": "com.example.auth.firebaseauth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCw3db6w0pusZEQXL0WRx43Riw5rFDj5Ac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
