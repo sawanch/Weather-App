@@ -7,11 +7,9 @@ Weather App is a mobile application developed using Flutter that offers real-tim
 - **User Authentication**: Secure login and registration functionality using Firebase Authentication.
 - **Real-Time Weather**: Displays current weather conditions including temperature, humidity, and wind speed based on the user's GPS location.
 - **User-Friendly Interface**: Easy-to-navigate interface providing a seamless user experience.
-- **Customizable Settings**: Allows users to customize the app settings, such as units of measurement (Celsius or Fahrenheit).
+- **Customizable Settings**: Allows users to customize the app settings, such as units of measurement (Celsius).
 
 ## Screenshots
-
-Insert screenshots of the app by using the relative paths in the repository. Example below:
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
     <img src="screenshot/ss2.jpeg" alt="Login Screen" width="300" style="margin: 10px;"/>
